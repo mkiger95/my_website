@@ -1,15 +1,13 @@
 baseURL = "https://www.morgankiger.com/"
 title = "Morgan Kiger's Portfolio"
-theme = "dimension"
+theme = "landing-page"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = '<!--[-->A website about Morgan Kiger and work he has done<!--]-->
-  <!--[-->{{< socialLinks >}}<!--]-->''
-  logo = "fa-diamond"
+  description = '<!--[-->A website about Morgan Kiger and work he has done<!--]-->'
 
 [[params.social]]
 	title = "email"
