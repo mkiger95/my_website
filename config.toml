@@ -7,8 +7,14 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = '<!--[-->A website about Morgan Kiger and work he has done<!--]-->'
+  description = '<!--[-->A website about Morgan Kiger and work he has done<!--]-->
+  <!--[-->{{< socialLinks >}}<!--]-->''
   logo = "fa-diamond"
+
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:kiger@unlv.nevada.edu"
 
 [[params.social]]
   medium = "linkedin"
