@@ -1,6 +1,8 @@
 ---
 title: "About"
 date: 2019-02-05T13:53:17-08:00
-draft: true
+draft: false
 ---
 
+{{< figure class="image main" src="/images/pic03.jpg" >}}
+Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
