@@ -24,3 +24,14 @@ disableKinds = ["RSS"]
   title = "github"
   icon = "github"
   link = "https://github.com/mkiger95/portfolio"
+
+[blackFriday]
+  hrefTargetBlank = true
+
+[menu]
+
+[[menu.main]]
+  identifier = "email"
+  name = "email"
+  url = "mailto:kiger@unlv.nevada.edu"
+  weight = 30
