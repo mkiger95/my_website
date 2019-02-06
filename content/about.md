@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 date: 2019-02-04T13:53:17-08:00
 draft: false
 weight: 10
