@@ -3,5 +3,5 @@ title: "Email"
 date: 2019-02-05T16:19:52-08:00
 draft: true
 weight: 30
-link: "mailto:kiger@unlv.nevada.edu"
+url: "mailto:kiger@unlv.nevada.edu"
 ---
