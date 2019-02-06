@@ -7,7 +7,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = 'A website about me and links to work I have done in the past <br>{{< socialLinks >}}</br>'
+  description = 'A website about me and links to work I have done in the past <br><a href="mailto:kiger@unlv.nevada.edu">Email</a>      <a href="https://www.linkedin.com/in/morgan-kiger-84735573">LinkedIn</a>       href="https://github.com/mkiger95/portfolio">Portfolio</a></br>'
   logo = "fa-diamond"
 
 [[params.social]]
@@ -18,12 +18,12 @@ disableKinds = ["RSS"]
 [[params.social]]
   medium = "linkedin"
   icon = "linkedin"
-  link = "https://www.linkedin.com/in/morgan-kiger-84735573/"
+  link = "https://www.linkedin.com/in/morgan-kiger-84735573"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "https://github.com/mkiger95/portfolio"
+  link = "https://github.com/mkiger95"
 
 [blackFriday]
   hrefTargetBlank = false
