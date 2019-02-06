@@ -7,7 +7,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = 'A website about Morgan Kiger and links to work he has done'
+  description = 'A website about me and links to work I have done in the past'
   logo = "fa-diamond"
 
 [[params.social]]
@@ -24,4 +24,3 @@ disableKinds = ["RSS"]
   title = "github"
   icon = "github"
   link = "https://github.com/mkiger95/portfolio"
-
