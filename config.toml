@@ -37,6 +37,7 @@ disableKinds = ["RSS"]
   url = "mailto:kiger@unlv.nevada.edu"
   weight = 30
 
+[[menu.main]]
   title = "linkedin"
   identifier = "linkedin"
   name = "linkedin"
