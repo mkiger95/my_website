@@ -1,9 +1,1 @@
-[submodule "site/themes/m10c"]
-	path = site/themes/m10c
-	url = https://github.com/vaga/hugo-theme-m10c.git
-[submodule "themes/dimension"]
-	path = themes/dimension
-	url = https://github.com/sethmacleod/dimension.git
-[submodule "themes/landing-page"]
-	path = themes/landing-page
-	url = https://github.com/crakjie/landing-page-hugo.git
+
