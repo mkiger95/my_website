@@ -25,5 +25,13 @@ disableKinds = ["RSS"]
   icon = "github"
   link = "https://github.com/mkiger95"
 
-[blackFriday]
+[blackfriday]
   hrefTargetBlank = true
+
+[menu]
+
+[[main.menu]]
+  identifier = 'resumè'
+  name = 'resumè'
+  url = "/resume/morgan_kiger_resume.pdf"
+  weight = 20
