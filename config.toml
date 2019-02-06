@@ -7,7 +7,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = 'A website about me and links to work I have done in the past <br><a href="https://github.com/mkiger95/portfolio">My Portfolio</a></br>'
+  description = 'A website about me and links to work I have done in the past <br>{{< socialLinks >}}</br>'
   logo = "fa-diamond"
 
 [[params.social]]
@@ -27,19 +27,3 @@ disableKinds = ["RSS"]
 
 [blackFriday]
   hrefTargetBlank = false
-
-[menu]
-
-[[menu.main]]
-  title = "email"
-  identifier = "email"
-  name = "email"
-  url = "mailto:kiger@unlv.nevada.edu"
-  weight = 30
-
-[[menu.main]]
-  title = "linkedin"
-  identifier = "linkedin"
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/morgan-kiger-84735573"
-  weight = 40
