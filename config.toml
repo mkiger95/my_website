@@ -7,7 +7,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = '• &nbsp; <a href="mailto:kiger@unlv.nevada.edu">Email</a> &nbsp; • &nbsp;  <a href="/resume/morgan_kiger_resume.pdf">Resumè</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/morgan-kiger-84735573">LinkedIn</a> &nbsp; • &nbsp; <a href="https://github.com/mkiger95/portfolio">Portfolio</a> &nbsp •'
+  description = '<a href="mailto:kiger@unlv.nevada.edu">Email</a> &nbsp; • &nbsp;  <a href="/resume/morgan_kiger_resume.pdf">Resumè</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/morgan-kiger-84735573">LinkedIn</a> &nbsp; • &nbsp; <a href="https://github.com/mkiger95/portfolio">Portfolio</a>'
   logo = "fa-diamond"
 
 [[params.social]]
