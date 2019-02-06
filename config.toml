@@ -26,4 +26,4 @@ disableKinds = ["RSS"]
   link = "https://github.com/mkiger95"
 
 [blackFriday]
-  hrefTargetBlank = false
+  hrefTargetBlank = true
