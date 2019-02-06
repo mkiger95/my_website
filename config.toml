@@ -1,13 +1,14 @@
 baseURL = "https://www.morgankiger.com/"
-title = "Morgan Kiger's Portfolio"
-theme = "landing-page"
+title = "Morgan Kiger"
+theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = '<!--[-->A website about Morgan Kiger and work he has done<!--]-->'
+  description = 'A website about Morgan Kiger and links to work he has done'
+  logo = "fa-diamond"
 
 [[params.social]]
 	title = "email"
@@ -15,12 +16,12 @@ disableKinds = ["RSS"]
 	url = "mailto:kiger@unlv.nevada.edu"
 
 [[params.social]]
-  medium = "linkedin"
+  title = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/morgan-kiger-84735573/"
 
 [[params.social]]
-  medium = "github"
+  title = "github"
   icon = "github"
   link = "https://github.com/mkiger95/portfolio"
 
