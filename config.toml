@@ -7,7 +7,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Morgan Kiger"
-  description = 'A website about me and links to work I have done in the past <br><br><a href="https://github.com/mkiger95/portfolio">My Portfolio</a></br></br>'
+  description = 'A website about me and links to work I have done in the past <br><a href="https://github.com/mkiger95/portfolio">My Portfolio</a></br>'
   logo = "fa-diamond"
 
 [[params.social]]
@@ -26,7 +26,7 @@ disableKinds = ["RSS"]
   link = "https://github.com/mkiger95/portfolio"
 
 [blackFriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = false
 
 [menu]
 
