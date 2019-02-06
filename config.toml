@@ -1,6 +1,6 @@
 baseURL = "https://www.morgankiger.com/"
 title = "Morgan Kiger"
-theme = "dimension"
+theme = "dimension-master"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 disableKinds = ["RSS"]
