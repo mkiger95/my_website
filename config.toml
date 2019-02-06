@@ -11,17 +11,17 @@ disableKinds = ["RSS"]
   logo = "fa-diamond"
 
 [[params.social]]
-	title = "email"
+	medium = "email"
 	icon = "envelope-o"
 	url = "mailto:kiger@unlv.nevada.edu"
 
 [[params.social]]
-  title = "linkedin"
+  medium = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/morgan-kiger-84735573/"
 
 [[params.social]]
-  title = "github"
+  medium = "github"
   icon = "github"
   link = "https://github.com/mkiger95/portfolio"
 
