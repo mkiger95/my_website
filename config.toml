@@ -13,7 +13,7 @@ disableKinds = ["RSS"]
 [[params.social]]
 	medium = "email"
 	icon = "envelope-o"
-	url = "mailto:kiger@unlv.nevada.edu"
+	link = "mailto:kiger@unlv.nevada.edu"
 
 [[params.social]]
   medium = "linkedin"
